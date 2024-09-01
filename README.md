@@ -1,1 +1,2 @@
 # Heat-Diffusion-Simulation-using-OpenMP
+This project involves simulating a steady-state heat diffusion process on a 2D grid using an iterative update scheme. The project starts with a serial implementation and then explores parallelization using OpenMP to optimize performance across different thread counts. The primary objective is to achieve a computational steady state where the change in values across the grid falls below a defined threshold.
